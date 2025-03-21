@@ -68,6 +68,11 @@
   cursor: pointer;
 }
 
+.about-us__button img {
+  object-fit: contain;
+  margin-left: 32px;
+}
+
 .about-us__content {
   padding: 64px;
 
