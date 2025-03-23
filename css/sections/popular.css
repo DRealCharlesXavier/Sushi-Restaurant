@@ -104,3 +104,9 @@
 
   margin-left: 21px;
 }
+
+.popular-foods__cards {
+  padding: 38px;
+  min-width: 260px;
+  height: fit-content;
+}
